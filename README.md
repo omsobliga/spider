@@ -11,7 +11,7 @@ spider
 
 --thread 指定线程池大小，多线程爬取页面，可选参数，默认10
 
---dbfile 存放结果数据到指定的数据库（sqlite）文件中，默认spider.py
+--dbfile 存放结果数据到指定的数据库（sqlite）文件中，默认spider.db
 
 --key 页面内的关键词，获取满足该关键词的网页，可选参数，默认为所有页面
 
